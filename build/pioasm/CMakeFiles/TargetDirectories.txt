@@ -1,3 +1,0 @@
-/home/gtown/develop/pico/radio/build/pioasm/CMakeFiles/pioasm.dir
-/home/gtown/develop/pico/radio/build/pioasm/CMakeFiles/edit_cache.dir
-/home/gtown/develop/pico/radio/build/pioasm/CMakeFiles/rebuild_cache.dir
